@@ -4,7 +4,10 @@ Pick what you're craving and see which of 19 Toronto neighbourhood zones is the 
 
 Built for University of Toronto and TMU students: a walkable area bounded roughly by Dupont, Parliament, Front, and Ossington.
 
-## 🎥 Live Demo
+## Why I built this
+Deciding where to eat near campus usually means scrolling through Google Maps and trusting star ratings, which show you good restaurants but not which part of downtown is best for what you're craving. I wanted to answer a different question: not "what's a good place?" but "which neighbourhood should I go to for ramen, bubble tea, or brunch?" So I built what I wished existed.
+
+## Live Demo
 
 https://github.com/user-attachments/assets/6cd781c5-a906-46ea-9119-1a9da6c62b01
 
