@@ -42,6 +42,6 @@ https://github.com/user-attachments/assets/6cd781c5-a906-46ea-9119-1a9da6c62b01
 - The data is a single point-in-time pull (~3,300 places, September 2026), so places may have opened or closed since.
 - Zone density varies from ~40 places in the quietest zone to ~340 in the busiest, since zones follow real neighbourhood boundaries.
 
-## 🛠️ Tech stack
+## Tech Used
 
 Python · Pandas · Streamlit · Plotly · GeoJSON · Google Places API · Excel
