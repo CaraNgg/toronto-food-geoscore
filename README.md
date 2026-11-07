@@ -4,7 +4,12 @@ Pick what you're craving and see which of 19 Toronto neighbourhood zones is the 
 
 Built for University of Toronto and TMU students: a walkable area bounded roughly by Dupont, Parliament, Front, and Ossington.
 
-🔗 **Live site:** (your-live-link-here)
+## 🎥 Live Demo
+
+https://github.com/user-attachments/assets/6cd781c5-a906-46ea-9119-1a9da6c62b01
+
+
+*Selecting categories, the top 3 matching zones highlighting on the map, and individual places shown as markers.*
 
 ## ✨ Features
 
